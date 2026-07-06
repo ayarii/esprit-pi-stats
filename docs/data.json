@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T10:25:14.696615Z",
-  "total": 431,
+  "generated_at": "2026-07-06T09:58:57.899962Z",
+  "total": 433,
   "repositories": [
     {
       "name": "ESPRIT-PI-3A14-2026-AgriFlow",
@@ -142,7 +142,7 @@
         "mohamedadembrinsi",
         "zeineb-mrabet"
       ],
-      "stars": 0,
+      "stars": 1,
       "url": "https://github.com/Hedi-Trabelsi/ESPRIT-PIDEV-3A30-2026-AGRICORE",
       "created_at": "2026-01-26T19:19:51Z"
     },
@@ -320,7 +320,7 @@
         "MedFirass",
         "Zeinebmrabet1"
       ],
-      "stars": 0,
+      "stars": 1,
       "url": "https://github.com/Hedi-Trabelsi/ESPRIT-PIWEB-3A30-2026-AGRICORE",
       "created_at": "2026-04-02T23:55:21Z"
     },
@@ -815,6 +815,17 @@
       "created_at": "2026-01-29T13:17:58Z"
     },
     {
+      "name": "Esprit-PI-4SAE10-2026-Evermind",
+      "owner": "azizdlissiesprit",
+      "contributors": [
+        "azizdlissiesprit",
+        "rimaesprit"
+      ],
+      "stars": 0,
+      "url": "https://github.com/azizdlissiesprit/Esprit-PI-4SAE10-2026-Evermind",
+      "created_at": "2026-01-29T12:19:22Z"
+    },
+    {
       "name": "Esprit-PI-4SAE2-2025-EverCare",
       "owner": "eyadabbaghi",
       "contributors": [
@@ -1079,6 +1090,16 @@
       "stars": 0,
       "url": "https://github.com/khalilMessaoud1/Esprit-PI-AI-3IA3-2526-BridgingBipolar",
       "created_at": "2026-06-07T22:50:43Z"
+    },
+    {
+      "name": "Esprit-PI-ALINFO2-2526-ESPRITConnect",
+      "owner": "abidiabderrahmen",
+      "contributors": [
+        "abdouabidi"
+      ],
+      "stars": 0,
+      "url": "https://github.com/abidiabderrahmen/Esprit-PI-ALINFO2-2526-ESPRITConnect",
+      "created_at": "2026-07-02T22:14:37Z"
     },
     {
       "name": "Esprit-PI-BI-4BI05--2026-Sports",
@@ -2672,6 +2693,7 @@
       "name": "Esprit-PIDEV-3A4-2026-EventManager",
       "owner": "moez-og",
       "contributors": [
+        "Fancyhe1",
         "moez-og",
         "hayfatouzi",
         "AZIZTOMBARI",
@@ -2869,7 +2891,6 @@
       "owner": "elyesbm",
       "contributors": [
         "trikifares",
-        "mariem593",
         "elyesbm",
         "dhouhahaddadi",
         "khalil3515",
